@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1584793404 source:f:\cse202 project\cseproject0\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<conio.h>
+	"cseprojectworkshopclassandfunction.h"
+	"cseprojectsportsevent.h"
+	"cseprojectattendconference.h"
+
+1584791960 f:\cse202 project\cseproject0\cseprojectworkshopclassandfunction.h
+	<iostream>
+
+1584791960 source:f:\cse202 project\cseproject0\attendworkshopfunction.cpp
+	"cseprojectworkshopclassandfunction.h"
+	<iostream>
+
+1584555368 source:f:\cse202 project\cseproject0\attendsportsevents.cpp
+	"cseprojectsportsevent.h"
+	<iostream>
+
+1584560082 f:\cse202 project\cseproject0\cseprojectsportsevent.h
+	<iostream>
+
+1584555368 source:f:\cse202 project\cseproject0\attendconference.cpp
+	"cseprojectattendconference.h"
+	<iostream>
+
+1584560082 f:\cse202 project\cseproject0\cseprojectattendconference.h
+	<iostream>
+
+1584790596 source:f:\cse202 project\cseproject0\applyforadvance.cpp
+
+1584790634 source:f:\cse202 project\cseproject0\viewadvance.cpp
+
